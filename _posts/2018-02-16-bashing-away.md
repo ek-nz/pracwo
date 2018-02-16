@@ -12,4 +12,6 @@ My biggest face-palm moment (it's Friday, ok?) was forgetting that I've updated 
 
 Anyway, job done. 
 
-The other thing I'm thinking about is solidifying my online presence into this consistent entity: Ek. Right now I have a GitHub account for work, which has my work-self all over it, and I'd quite like to leave that for just work stuff and do all my dabbling as Ek. Heck, I don't even know who I'm committing as right now!
+The other thing I'm thinking about is solidifying my online presence into this consistent entity: Ek. Right now I have a GitHub account for work, which has my work-self all over it, and I'd quite like to leave that for just work stuff and do all my dabbling as Ek. Heck, I don't even know who I'm committing as right now! Yes, I'm a Gemini, in case you were wondering. So I've set up some nice email forwarding so I can put a pretty email address on my blog, and use a consistent GitHub and Twitter handle. All the things align.
+
+I'll write other things about my adventures in amature web development (and stuff) and put them in the tech category, in case anyone is interested. And now to go write about pants...
