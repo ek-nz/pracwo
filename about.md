@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav: true
 ---
 This is the PracWo (practical woman) blog, by Ek. It's about practical things, and is written by a woman in the Southern Hemisphere.
 
