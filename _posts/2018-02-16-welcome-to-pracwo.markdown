@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to PracWo"
 date:   2018-02-16 14:34:24 +1300
-categories: welcome
 ---
 Welcome to The Practical Woman Blog!
 

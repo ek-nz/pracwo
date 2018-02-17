@@ -2,7 +2,8 @@
 layout: post
 title: 5.11 Wyldcat Pants
 date: 2018-02-16 16:43 +1300
-categories: gear clothing
+categories: gear review
+tags: clothing
 ---
 I have finally found practical pants for women! They are the 5.11 Wyldcat and I am wearing them right now. What are you wearing?
 
