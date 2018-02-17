@@ -3,6 +3,7 @@ layout: post
 title: Bashing away
 date: 2018-02-16 16:32 +1300
 categories: tech
+tags: git jekyll web
 ---
 One thing for me that has to be included in being a practical woman is the ability to use a computer. So I thought it might be nice to write some posts about my escapades in IT.
 
