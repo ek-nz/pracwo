@@ -22,3 +22,5 @@ If you've never seen these pants, by now you'll be pictuing some baggy cargo pan
 And everything about the fabric is true. The best way I can describe it is like old-school moleskin pants. Really soft and flexible but in no way thin. When I first took them out of the packaging I was immediatly struck by all the stitching. Tripple rows along the hand pockets.
 
 I'll edit this post if anything changes after a wash and some more wearing, but chances are you'll be reading about my next pair instead.
+
+UPDATE: March. I noticed a bit of stitching starting to give way on the inner thigh just after writing this. At the end of March I'm still waiting for customer services to get back to me. I still want to buy another pair, but I feel like I should wait for the verdict on this first. In the mean time, I put a couple of hand stitches in to stop any more undoing. 
