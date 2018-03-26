@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5.11 Wyldcat Pants
-date: 2018-02-16 16:43 +1300
+date: 2018-03-05
 categories: gear review
 tags: clothing
 ---
