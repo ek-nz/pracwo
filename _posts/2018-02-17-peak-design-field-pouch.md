@@ -8,7 +8,7 @@ tags: bag
 
 I recently purchased the [Field Pouch](https://www.peakdesign.com/product/bags/field-pouch/) by Peak Design to use as a camera or accessory bag for my OM-D EM-10 mirrorless camera. Oddly enough, I haven't used it as much as I thought I would... until last week.
 
-As a camera bag, I would flag this one for occasional use. My OM-D fits in with a small lens, but the bag is pretty lumpy when closed. Also, I only have the one [Peak Slide strap](https://www.peakdesign.com/product/straps/slide) so would have another strap on the camera. I did also buy the [Clutch](https://www.peakdesign.com/product/straps/clutch), which works well in this overall set-up.
+As a camera bag, I would flag this one for occasional use. My OM-D fits in with a small lens, but the bag is pretty lumpy when closed. Also, I only have the one [Peak Slide Lite strap](https://www.peakdesign.com/slide-lite) so would have another strap on the camera. I did also buy the [Clutch](https://www.peakdesign.com/product/straps/clutch), which works well in this overall set-up.
 
 For accessory carry (with the camera on the Slide strap and the pouch on a belt, or similar) the Field Pouch works well. I carry a lens or two and a spare battery, plus maybe some standard EDC items in this set-up.
 
