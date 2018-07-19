@@ -17,7 +17,7 @@ title: The Practical Woman
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blog for all things practical for women. It's a blog for men too, 
-  but there are plenty of other blogs with practical things for men. This blog is
+  but there are plenty of other blogs with practical things just for men. This blog is
   different because it also includes practical things for women.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pracwo.ek.net.nz" # the base hostname & protocol for your site, e.g. http://example.com
