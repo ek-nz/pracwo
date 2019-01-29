@@ -2,6 +2,8 @@
 layout: post
 title: YouTube Channel Live
 date: 2019-01-29 16:50 +1300
+categories: tech gear review
+tags: web bag 
 ---
 Pocketarian has a new YouTube channel. The first video is an unboxing of the Triple Aught Design FAST Pack Scout. There will be more videos about this bag on the way, and reviews of other practical items.
 
