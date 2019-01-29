@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   different because it also includes practical things for women. It's a blog for men too, 
   but there are plenty of other blogs with practical things just for men.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pracwo.ek.net.nz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://pocketarian.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: pracwo # the GitHub repo name for your project
 github_username: ek-nz
 
