@@ -32,6 +32,7 @@ social_username: _eknz
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
