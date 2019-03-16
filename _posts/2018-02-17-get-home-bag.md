@@ -3,7 +3,7 @@ layout: post
 title: Get Home Bag
 date: 2017-04-14
 category: emergency
-tags: [survival, distaster]
+tags: [survival, disaster]
 ---
 
 After yet another natural distaster around here with flooding all over the country as a result of [Cyclone Cook](http://www.stuff.co.nz/national/91530994/photos-cyclone-cook-slams-nz-with-heavy-rain-severe-gales-flooding), I find myself once again thinking about emergency kits. I do quite a lot of thinking on this front, but very little action. I get the feeling I'm not alone in this, and my fellow Google-warriors might be having a similar experience to mine: most of the survival stuff out there leans towards hyperbole at best.

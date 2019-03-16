@@ -13,25 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Practical Woman
+title: The Pocketarian
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the blog for all things practical for women. It's a blog for men too, 
-  but there are plenty of other blogs with practical things just for men. This blog is
-  different because it also includes practical things for women.
+  This is the blog for all things practical for everyone. This blog is
+  different because it also includes practical things for women. It's a blog for men too, 
+  but there are plenty of other blogs with practical things just for men.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pracwo.ek.net.nz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pocketarian.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: pracwo # the GitHub repo name for your project
 github_username: ek-nz
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
-social_username: _eknz
+social_username: pocketarian
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
+# theme: jekyll-swiss
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
