@@ -12,3 +12,10 @@ I once searched in vain for the ultimate admin pouch. I bought and tried several
 Work, play, adventure
 
 The topo skull shemagh is the softest, most stylish shemagh I have found. Then again, my others are mostly cheap ones from the surplus store. I really like that the design is subtle but even if you can't see the central image most people who are familiar with the outdoors will recognise the topo lines pattern. I got a darkish colour so I can wear it to work, out on a cool evening or adventuring in hot or cold weather. I think I'll probably get a second one!
+
+## FAST Pack Scout
+Quick Scout story of the day
+
+This one's just a quick story of today's Scout pack adventure. I'll do a full review of this bag at some point.
+
+A day off work means a better dog walk day. Today was a calm, mild and slightly rainy day, so the best Buddy and I headed off around the bays knowing we would have the place mostly to ourselves. He enjoys the smells, I enjoy the views. The Scout pack enjoys carrying my stuff: EDC items just stay in the front pocket plus I had a small tool kit in there from a previous outing. First aid kit, water bottle, snack, Buff, gloves, responsible-dog-owner bags, treats. The hound was happy to get the longer walk and I was happy to carry whatever I probably wouldn't need.
